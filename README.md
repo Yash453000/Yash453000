@@ -1,10 +1,11 @@
 👋 Hi, I’m Yash Pandey
 
-🌱 Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast
+
 I am passionate about building real-world applications that make an impact. I enjoy learning new technologies, solving problems, and creating solutions that help users. I love working on both frontend and backend development, and continuously strive to improve my skills.
 
 
 📜 Certificates
+
 🎓 Python (Basic) — Certification issued by HackerRank
 🎓 Problem Solving (Basic) — Certification issued by HackerRank
 🎓 Infosys Springboard: HTML5, CSS3, JavaScript, Programming Fundamentals using Python
@@ -12,6 +13,7 @@ I am passionate about building real-world applications that make an impact. I en
 
 
 📫 Contact Me
+
 📧 Email: pandeyyash676@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/yash-pandey-5001b5260/
